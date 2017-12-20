@@ -627,7 +627,7 @@ ul {
 }
 
 .avatar .icon-agent::before {
-  background-color: #1e8098;
+  background-color: $color_1;
   border: 2px solid #fff;
   border-radius: 50%;
   bottom: -4px;
@@ -3681,7 +3681,7 @@ ul {
 }
 
 .profile-header .options [data-action="edit-profile"] {
-  background-color: #1e8098;
+  background-color: $color_1;
   border: 0;
   color: $color_2;
   line-height: normal;
