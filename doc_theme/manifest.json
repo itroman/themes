@@ -8,35 +8,35 @@
       "label": "Colors",
       "variables": [
         {
-          "identifier": "brand_color",
+          "identifier": "color_1",
           "type": "color",
           "description": "Brand color for major navigational elements",
           "label": "Brand color",
           "value": "#0072ef"
         },
         {
-          "identifier": "brand_text_color",
+          "identifier": "color_2",
           "type": "color",
           "description": "Brand color for hover and active states",
           "label": "Brand text color",
           "value": "#ffffff"
         },
         {
-          "identifier": "text_color",
+          "identifier": "color_3",
           "type": "color",
           "description": "Text color for body and heading elements",
           "label": "Text color",
           "value": "#333333"
         },
         {
-          "identifier": "link_color",
+          "identifier": "color_4",
           "type": "color",
           "description": "Text color for link elements",
           "label": "Link color",
           "value": "#0072ef"
         },
         {
-          "identifier": "background_color",
+          "identifier": "color_5",
           "type": "color",
           "description": "Background color of your Help Center",
           "label": "Background color",
