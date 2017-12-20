@@ -425,7 +425,7 @@ ul {
   height: 70px;
   margin: 0 auto;
   padding: 0 30px;
-  background: #415d67;
+  background: $color_1;
   border-bottom: 1px solid #EEE;
   z-index: 10;
 }
